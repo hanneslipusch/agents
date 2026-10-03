@@ -1,0 +1,12 @@
+{
+  "name": "hanneslipusch",
+  "description": "Plugins for coding agents by Hannes Lipusch.",
+  "owner": { "name": "Hannes Lipusch" },
+  "plugins": [
+    {
+      "name": "video-review",
+      "description": "Turn agent screen recordings into a fast, captioned review page.",
+      "source": { "source": "url", "url": "https://github.com/hanneslipusch/video-review.git" }
+    }
+  ]
+}
