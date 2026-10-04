@@ -1,12 +1,25 @@
 {
   "name": "hanneslipusch",
   "description": "Plugins for coding agents by Hannes Lipusch.",
-  "owner": { "name": "Hannes Lipusch" },
+  "owner": {
+    "name": "Hannes Lipusch"
+  },
   "plugins": [
     {
+      "name": "typeslop",
+      "description": "A taste check for coding agents: a small judge reads every edit and sends the agent back once to fix the slop or say why it stays.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hanneslipusch/typeslop.git"
+      }
+    },
+    {
       "name": "video-review",
-      "description": "Turn agent screen recordings into a fast, captioned review page.",
-      "source": { "source": "url", "url": "https://github.com/hanneslipusch/video-review.git" }
+      "description": "Turn recordings, screenshots and clips into a captioned review video and page.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hanneslipusch/video-review.git"
+      }
     }
   ]
 }
