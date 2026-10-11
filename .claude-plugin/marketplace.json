@@ -15,7 +15,7 @@
     },
     {
       "name": "video-review",
-      "description": "Turn recordings, screenshots and clips into a captioned review video and page.",
+      "description": "Turn an agent's screen recording into a narrated review video.",
       "source": {
         "source": "url",
         "url": "https://github.com/hanneslipusch/video-review.git"
