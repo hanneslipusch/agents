@@ -11,5 +11,6 @@ claude plugin install typeslop@hanneslipusch
 |---|---|
 | [typeslop](https://github.com/hanneslipusch/typeslop) | A taste check for coding agents: a small judge reads every edit and sends the agent back once to fix the slop or say why it stays. |
 | video-review | Turn recordings, screenshots and clips into a captioned review video and page. Private for now, so only its owner can install it. |
+| [founder-playbook](https://github.com/getagentseal/founder-playbook) | Fifteen business books as founder skills, with a diagnose skill that routes to the right one. Maintained by AgentSeal; listed here as it is. |
 
-Each plugin lives in its own repository and releases by bumping its own version. Entries here carry no version and use `"source": "url"`, which Claude Code and Codex both read, so this catalog changes only when a plugin is added.
+Each plugin lives in its own repository (all but founder-playbook are ours) and releases by bumping its own version. Entries here carry no version and use `"source": "url"`, which Claude Code and Codex both read, so this catalog changes only when a plugin is added.

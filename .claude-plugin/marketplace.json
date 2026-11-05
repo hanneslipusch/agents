@@ -20,6 +20,14 @@
         "source": "url",
         "url": "https://github.com/hanneslipusch/video-review.git"
       }
+    },
+    {
+      "name": "founder-playbook",
+      "description": "Fifteen business books as skills for founders (The Mom Test, $100M Offers, Obviously Awesome and more), with a diagnose skill that routes to the right one. By AgentSeal.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/getagentseal/founder-playbook.git"
+      }
     }
   ]
 }
